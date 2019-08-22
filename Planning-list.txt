@@ -1,0 +1,16 @@
+Test list
+
+method exists
+hash exists
+
+accepts method with an integer as an argument
+returns a string
+returns the correct roman numeral for a given number
+calling hash.key(number) gives correct numeral
+
+To Do List
+
+create method
+add integer argument to method
+create hash with all possible numeral intervals
+use hash.key(number) to return correct numeral string
